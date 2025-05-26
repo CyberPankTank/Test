@@ -49,3 +49,5 @@ Computer | 1600  | 3
 Phone    | 12    | 2
 Pipe     | 1     | 1
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberPankTank&show_icons=true&hide=prs,issues,contribs&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberPankTank&layout=compact&theme=dark)
