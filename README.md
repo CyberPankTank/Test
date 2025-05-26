@@ -39,3 +39,13 @@ $c = $a + $b;
 
 [Имя ссылки](google.com)
 
+![Снимок](img/Снимок.JPG)
+
+[![Foto](img/Снимок.JPG)](www.yandex.ru)
+
+Item     | Value | Quantity
+:--------|:-----:|--------:
+Computer | 1600  | 3
+Phone    | 12    | 2
+Pipe     | 1     | 1
+
